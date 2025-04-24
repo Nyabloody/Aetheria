@@ -1,0 +1,26 @@
+Aetheria Temple Corporation (c) 2025
+Employees List (as of 24-04-2025)
+
+Management Team
+- Lasther Rockfield: CEO
+
+Security Team
+- Astara: Security Chief
+- Tom Longfang: Mercenary, Security Officer
+- Kurisutaru Yoruhi: Field Technician, Security Officer
+
+Science Team
+- Dr. Aurelia Vostoff: Robotics and AI engineer, System Admin. (co-founder)
+- Dr. Ophelia Bailey: Biologist and Flora Expert (co-founder)
+- Dr. Constance Lovestar: Software Developper and Cybernetics Engineer
+- Dr. Aly Campbell: Software Developper
+
+Tech Team
+- Adam Miller: Field Technician
+
+Units
+- Aetheria: The Cyber Succubus (Corpo Idol)(Science and Exploration Unit)
+- cort4na: Science Unit, Crash Test, Secretary (Science Team, Management Team)
+- SEPH-I: Experimental Deer Unit with a Prototype AI (Science Team)
+- C.A.S.S: Bodyguard and Patrol Unit (Security Team)
+- LQ84i: Exploration Unit (Science Team)
